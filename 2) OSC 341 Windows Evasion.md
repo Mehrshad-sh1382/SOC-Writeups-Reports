@@ -1,4 +1,4 @@
-# OSC 341 – Windows Evasion
+# SOC 321 – Windows Evasion
 ## Incident Report: RDP Brute-Force Compromise & Windows Defender Bypass
 
 **Hostname:** Elenora  
