@@ -1,6 +1,8 @@
 # OSC 341 – Windows Evasion
 ## Incident Report: RDP Brute-Force Compromise & Windows Defender Bypass
 
+**PDF Version (Attachment):** [Download Full PDF Report](./2)%20OSC%20341%20Windows%20Evasion.pdf)
+
 **Hostname:** Elenora  
 **Internal IP:** 172.16.17.126  
 **Date of Incident:** 12 September 2024  
@@ -89,4 +91,19 @@ This was a successful credential-based RDP compromise followed by reconnaissance
 
 - Reset compromised account passwords and restrict RDP access (VPN / IP allow-list + NLA).
 - Hunt for persistence and perform full forensic analysis.
-- Enable and monitor PowerShell Script Block Logging (4104) and%PDF-1.4
+- Enable and monitor PowerShell Script Block Logging (4104) and process creation with command lines (4688).
+- Create detections for `rundll32` + `vbscript:` / `mshtml` / `RunHTMLApplication` patterns.
+- Enforce account lockout policies.
+
+---
+
+## References
+
+- [Exploit-DB 51802 – Microsoft Windows Defender VBScript Detection Bypass](https://www.exploit-db.com/exploits/51802)
+- MITRE ATT&CK
+
+---
+
+**Attachment:** [Full PDF Report](./2)%20OSC%20341%20Windows%20Evasion.pdf)
+
+*OSC 341 – Windows Evasion write-up*
