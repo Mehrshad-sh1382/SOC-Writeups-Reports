@@ -1,7 +1,7 @@
 # OSC 341 – Windows Evasion
 ## Incident Report: RDP Brute-Force Compromise & Windows Defender Bypass
 
-**PDF Version (Attachment):** [Download Full PDF Report](<./2) OSC 341 Windows Evasion.pdf>)
+**PDF Version (Attachment):** [Download Full PDF Report](./OSC-341-Windows-Evasion.pdf)
 
 **Hostname:** Elenora  
 **Internal IP:** 172.16.17.126  
@@ -104,6 +104,6 @@ This was a successful credential-based RDP compromise followed by reconnaissance
 
 ---
 
-**Attachment:** [Full PDF Report](<./2) OSC 341 Windows Evasion.pdf>)
+**Attachment:** [Full PDF Report](./OSC-341-Windows-Evasion.pdf)
 
 *OSC 341 – Windows Evasion write-up*
