@@ -1,5 +1,17 @@
 # SOC 318: Reflective Code Loading via PowerShell (WinPwn / Mimikatz)
 
+## Incident Replay Animation
+
+[![Watch the attack chain animation](https://raw.githubusercontent.com/Mehrshad-sh1382/SOC-Writeups-Reports/main/SOC318_animation_v2.mp4)](https://github.com/Mehrshad-sh1382/SOC-Writeups-Reports/blob/main/SOC318_animation_v2.mp4)
+
+> **Tip:** Click the video above or [open it directly](./SOC318_animation_v2.mp4) to play the full 20-second incident replay.
+
+## Full PDF Report
+
+[**Download / View PDF Report**](./SOC%20318%20-%20Reflective%20Code%20Loading%20Attempt%20via%20PowerShell.pdf)
+
+---
+
 **Hostname:** Lorna  
 **Internal IP:** 172.16.17.119  
 **Alert Time:** 2024-09-03 12:42:51 +03:00  
@@ -65,5 +77,4 @@ Confirmed **True Positive – High Severity**. The attacker achieved fileless re
 
 ---
 
-*Full PDF version available in this repository.*  
 Prepared by Amirali Sheikhan – Incident Responder
