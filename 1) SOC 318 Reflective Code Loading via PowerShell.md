@@ -1,11 +1,5 @@
 # SOC 318: Reflective Code Loading via PowerShell (WinPwn / Mimikatz)
 
-## Incident Replay Animation
-
-[**Watch the 20-second attack chain animation**](./Files/SOC318_animation_v2.mp4)
-
-> Click the link above to play the full incident replay.
-
 ## Full PDF Report
 
 [**View / Download PDF Report**](./Files/SOC%20318%20-%20Reflective%20Code%20Loading%20Attempt%20via%20PowerShell.pdf)
