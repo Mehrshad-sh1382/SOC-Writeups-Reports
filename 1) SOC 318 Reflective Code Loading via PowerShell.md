@@ -2,13 +2,13 @@
 
 ## Incident Replay Animation
 
-[![Watch the attack chain animation](https://raw.githubusercontent.com/Mehrshad-sh1382/SOC-Writeups-Reports/main/SOC318_animation_v2.mp4)](https://github.com/Mehrshad-sh1382/SOC-Writeups-Reports/blob/main/SOC318_animation_v2.mp4)
+[**Watch the 20-second attack chain animation**](./SOC318_animation_v2.mp4)
 
-> **Tip:** Click the video above or [open it directly](./SOC318_animation_v2.mp4) to play the full 20-second incident replay.
+> Click the link above to play the full incident replay directly in the browser.
 
 ## Full PDF Report
 
-[**Download / View PDF Report**](./SOC%20318%20-%20Reflective%20Code%20Loading%20Attempt%20via%20PowerShell.pdf)
+[**View / Download PDF Report**](./SOC%20318%20-%20Reflective%20Code%20Loading%20Attempt%20via%20PowerShell.pdf)
 
 ---
 
